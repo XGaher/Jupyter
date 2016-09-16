@@ -1,1 +1,3 @@
 # Jupyter
+
+Autor Javier Galarza
